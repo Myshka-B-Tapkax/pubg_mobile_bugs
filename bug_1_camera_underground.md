@@ -20,7 +20,7 @@
 Камера проваливается сквозь землю, земля прозрачная.
 
 ## Severity
-Medium
+Minor
 
 ## Priority
 Medium
