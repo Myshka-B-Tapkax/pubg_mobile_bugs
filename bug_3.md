@@ -21,7 +21,7 @@
 Оружие невидимое.
 
 ## Severity
-Low
+Trivial
 
 ## Priority
 Low
